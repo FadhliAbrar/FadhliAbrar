@@ -1,13 +1,13 @@
 <p align="center">
-<a href="#ǝɔϟlʍo">
+<a href="#">
     <img width="100%" src="img/404-page-dead-design.jpg">
 </a>
 </p>
 
 <details>
-<summary>'Laugh in the face of danger'. Oops. Wrong One. 'Do it yourself'.</summary>
+<summary>Just an ordinary guy.</summary>
     <p align="center">
-    <a href="#ǝɔϟlʍo" target="_blank">
+    <a href="#" target="_blank">
         <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=FadhliAbrar&hide=html,&hide_border=true&title_color=4c566a&text_color=3b4252"/>
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=FadhliAbrar&show_icons=true&hide=issues,commits&hide_border=true&icon_color=63c5ea&title_color=4c566a&text_color=3b4252"/>
     </a>
@@ -15,7 +15,7 @@
     <details open>
     <summary></summary>
     <p align="center">
-    <a href="#ǝɔϟlʍo" target="_blank">
+    <a href="#" target="_blank">
         <img src="https://profile-counter.glitch.me/FadhliAbrar/count.svg" />
     </a>
     </p>
