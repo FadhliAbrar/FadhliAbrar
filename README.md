@@ -1,6 +1,6 @@
 <p align="center">
 <a href="#">
-    <img width="100%" src="img/ellie.png">
+    <img width="100%" style="border-collapse:separate border-radius:15px 50px" src="img/ellie.png">
 </a>
 </p>
 
