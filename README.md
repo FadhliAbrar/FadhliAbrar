@@ -1,6 +1,6 @@
 <p align="center">
 <a href="#">
-    <img width="100%" src="img/musicaandsonju.png">
+    <img width="100%" src="img/nothinhere.jpg">
 </a>
 </p>
 
