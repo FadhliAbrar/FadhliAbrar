@@ -3,7 +3,7 @@
 </p>
 
 <details>
-<summary>Just an ordinary guy.</summary>
+<summary>Masih belajar bang</summary>
     <p align="center">
     <a href="#" target="_blank">
         <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=FadhliAbrar&hide=html,&hide_border=true&title_color=4c566a&text_color=3b4252"/>
