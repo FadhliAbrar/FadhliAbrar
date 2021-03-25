@@ -1,3 +1,5 @@
+kawkak ngapain lu kesini, buang-buang waktu aja wakwk
+
 <p align="center">
 
 </p>
